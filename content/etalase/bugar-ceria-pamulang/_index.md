@@ -2,8 +2,8 @@
 title: "Sanggar Senam Bugar Ceria"
 tagline: "Tubuh Sehat, Pikiran Fresh, Hidup Bahagia."
 layout: "company-profile"
-brand_color: "#8e24aa" # Ungu
-hero_bg: "linear-gradient(to right, #8e24aa, #d81b60)" # Ungu ke Pink
+brand_color: "#ff0080" # Pink Neon
+hero_bg: "linear-gradient(to right, #833ab4, #fd1d1d, #fcb045)" # Gradasi Instagram/Sunset
 menu_links:
   - name: "📅 Jadwal Kelas"
     url: "jadwal"

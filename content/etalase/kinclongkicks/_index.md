@@ -2,8 +2,8 @@
 title: "KinclongKicks Tangsel"
 tagline: "Treatment Spa Terbaik untuk Sepatu Kesayanganmu."
 layout: "company-profile"
-brand_color: "#039be5" # Biru Langit
-hero_bg: "linear-gradient(135deg, #0288d1, #039be5)"
+brand_color: "#1a237e" # Navy Blue
+hero_bg: "linear-gradient(to bottom, #ffffff, #e3f2fd)" # Putih ke Biru Pucat (Clean)
 menu_links:
   - name: "💎 Harga"
     url: "harga"

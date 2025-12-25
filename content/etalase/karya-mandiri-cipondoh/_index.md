@@ -2,8 +2,9 @@
 title: "Bengkel Las Karya Mandiri"
 tagline: "Spesialis Besi & Stainless Steel Profesional di Cipondoh."
 layout: "company-profile"
-brand_color: "#e65100" # Oranye Las
-hero_bg: "linear-gradient(to right, #212121, #424242)" # Abu Gelap
+brand_color: "#fbc02d" # Kuning Safety
+hero_bg: "linear-gradient(to right, #212121, #000000)" # Hitam Pekat
+text_color: "#333"
 menu_links:
   - name: "⚒️ Layanan"
     url: "layanan"

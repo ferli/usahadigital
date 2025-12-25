@@ -2,8 +2,8 @@
 title: "Yayasan Harapan Bunda"
 tagline: "Bersama Kita Berbagi, Bersama Kita Mengabdi."
 layout: "company-profile"
-brand_color: "#00897b" # Hijau Tosca
-hero_bg: "linear-gradient(to right, #00695c, #00897b)"
+brand_color: "#2e7d32" # Hijau Daun Tua
+hero_bg: "linear-gradient(to right, #a5d6a7, #e8f5e9)" # Hijau Muda Segar
 menu_links:
   - name: "📖 Profil"
     url: "profil"

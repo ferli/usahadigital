@@ -2,8 +2,8 @@
 title: "NgopiSore Bintaro"
 tagline: "Tempat Nongkrong Asik, Kopi Gak Berisik."
 layout: "company-profile"
-brand_color: "#6d4c41" # Coklat Kopi
-hero_bg: "linear-gradient(to right, #3e2723, #6d4c41)"
+brand_color: "#795548" # Coklat Kayu
+hero_bg: "linear-gradient(to right, #3e2723, #d7ccc8)" # Gradasi Espresso ke Latte
 menu_links:
   - name: "📖 Menu"
     url: "menu"
