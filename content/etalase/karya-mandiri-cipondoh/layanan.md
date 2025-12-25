@@ -1,8 +1,15 @@
 ---
 title: "Layanan - Karya Mandiri Cipondoh"
-layout: "single"
+layout: "company-profile"
+brand_color: "#fbc02d"
+hero_bg: "linear-gradient(to right, #212121, #000000)"
+menu_links:
+  - name: "🏠 Home"
+    url: "/etalase/karya-mandiri-cipondoh/"
+  - name: "📸 Portofolio"
+    url: "portofolio"
 ---
-# ⚒️ Layanan Bengkel Las Kami
+## ⚒️ Layanan Bengkel Las Kami
 
 Kami melayani berbagai macam pekerjaan besi, mulai dari yang minimalis sampai yang custom mewah.
 
@@ -16,6 +23,3 @@ Kami melayani berbagai macam pekerjaan besi, mulai dari yang minimalis sampai ya
 - **Railing Tangga:** Bahan stainless atau besi hollow.
 - **Balkon:** Keamanan tambahan untuk lantai atas.
 - **Booth Kontainer:** Untuk kebutuhan jualan/usaha.
-
----
-[🔙 Kembali ke Beranda](/etalase/karya-mandiri-cipondoh)

@@ -1,8 +1,15 @@
 ---
 title: "Daftar Menu - NgopiSore Bintaro"
-layout: "single"
+layout: "company-profile"
+brand_color: "#795548"
+hero_bg: "linear-gradient(to right, #3e2723, #d7ccc8)"
+menu_links:
+  - name: "🏠 Home"
+    url: "/etalase/ngopisore-bintaro/"
+  - name: "📍 Lokasi"
+    url: "lokasi"
 ---
-# 📖 Daftar Menu NgopiSore
+## 📖 Daftar Menu NgopiSore
 
 Monggo dipilih, mau yang dingin atau yang hangat, semua ada.
 
@@ -20,6 +27,3 @@ Monggo dipilih, mau yang dingin atau yang hangat, semua ada.
 *   **Cireng Rujak:** Rp 15.000
 *   **Kentang Goreng:** Rp 18.000
 *   **Brownies Cokelat:** Rp 20.000
-
----
-[🔙 Kembali ke Beranda](/etalase/ngopisore-bintaro)

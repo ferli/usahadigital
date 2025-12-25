@@ -1,8 +1,15 @@
 ---
 title: "Daftar Harga - KinclongKicks"
-layout: "single"
+layout: "company-profile"
+brand_color: "#1a237e"
+hero_bg: "linear-gradient(135deg, #0288d1, #039be5)"
+menu_links:
+  - name: "🏠 Home"
+    url: "/etalase/kinclongkicks/"
+  - name: "✨ Tentang Kami"
+    url: "about"
 ---
-# 💎 Layanan & Daftar Harga
+## 💎 Layanan & Daftar Harga
 
 Kami menggunakan sabun khusus (Premium Cleaner) yang aman untuk bahan sepatu sensitif.
 
@@ -16,6 +23,3 @@ Kami menggunakan sabun khusus (Premium Cleaner) yang aman untuk bahan sepatu sen
 - **Cleaning Topi:** Rp 25.000
 - **Cleaning Tas Kecil:** Rp 50.000
 - **Cleaning Tas Besar (L):** Rp 100.000
-
----
-[🔙 Kembali ke Beranda](/etalase/kinclongkicks)

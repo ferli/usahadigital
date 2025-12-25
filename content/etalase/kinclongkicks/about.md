@@ -1,8 +1,15 @@
 ---
 title: "Tentang Kami - KinclongKicks"
-layout: "single"
+layout: "company-profile"
+brand_color: "#1a237e"
+hero_bg: "linear-gradient(135deg, #0288d1, #039be5)"
+menu_links:
+  - name: "🏠 Home"
+    url: "/etalase/kinclongkicks/"
+  - name: "💎 Harga"
+    url: "harga"
 ---
-# ✨ Mengapa KinclongKicks?
+## ✨ Mengapa KinclongKicks?
 
 Kami bukan sekadar cuci sepatu biasa. Inilah nilai lebih yang kami tawarkan:
 
@@ -12,6 +19,3 @@ Kami bukan sekadar cuci sepatu biasa. Inilah nilai lebih yang kami tawarkan:
 4. **Garansi Bersih:** Gak bersih? Kami cuci ulang GRATIS!
 
 📍 Area Workshop: Alam Sutera & BSD.
-
----
-[🔙 Kembali ke Beranda](/etalase/kinclongkicks)

@@ -1,8 +1,15 @@
 ---
 title: "Paket Membership - Bugar Ceria Pamulang"
-layout: "single"
+layout: "company-profile"
+brand_color: "#ff0080"
+hero_bg: "linear-gradient(to right, #833ab4, #fd1d1d, #fcb045)"
+menu_links:
+  - name: "🏠 Home"
+    url: "/etalase/bugar-ceria-pamulang/"
+  - name: "📅 Jadwal Kelas"
+    url: "jadwal"
 ---
-# 🎟️ Paket Membership & Harga
+## 🎟️ Paket Membership & Harga
 
 Lebih sering datang, lebih hemat harganya!
 
@@ -14,6 +21,3 @@ Lebih sering datang, lebih hemat harganya!
 
 ### 3. Paket Unlimited (Sebulan Puas)
 - Rp 300.000 (Bebas ikut kelas apa saja setiap hari)
-
----
-[🔙 Kembali ke Beranda](/etalase/bugar-ceria-pamulang)

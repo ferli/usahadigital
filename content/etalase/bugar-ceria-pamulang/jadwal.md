@@ -1,8 +1,15 @@
 ---
 title: "Jadwal Kelas - Bugar Ceria Pamulang"
-layout: "single"
+layout: "company-profile"
+brand_color: "#ff0080"
+hero_bg: "linear-gradient(to right, #833ab4, #fd1d1d, #fcb045)"
+menu_links:
+  - name: "🏠 Home"
+    url: "/etalase/bugar-ceria-pamulang/"
+  - name: "🎟️ Membership"
+    url: "paket"
 ---
-# 📅 Jadwal Kelas Mingguan
+## 📅 Jadwal Kelas Mingguan
 
 Silakan pilih waktu yang pas buat jenengan olahraga.
 
@@ -15,6 +22,3 @@ Silakan pilih waktu yang pas buat jenengan olahraga.
 - **Rabu:** Pilates
 - **Jumat:** Strong Nation
 - **Minggu:** Cardio Fun
-
----
-[🔙 Kembali ke Beranda](/etalase/bugar-ceria-pamulang)
