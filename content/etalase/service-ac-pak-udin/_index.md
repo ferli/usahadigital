@@ -1,6 +1,6 @@
 ---
 title: "Service AC Pak Udin - Karawaci"
-layout: "single"
+layout: "card"
 ---
 # ❄️ Service AC Pak Udin
 *Dinginnya Sampai ke Hati.*

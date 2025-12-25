@@ -1,6 +1,6 @@
 ---
 title: "Budi Konsultan Pajak - Alam Sutera"
-layout: "single"
+layout: "card"
 ---
 # 💼 Budi & Partners
 *Solusi Pajak Rapi, Bisnis Tenang.*

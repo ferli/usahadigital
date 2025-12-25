@@ -1,0 +1,104 @@
+{{ define "main" }}
+<style>
+/* CSS Khusus Tampilan Kartu Nama */
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    padding: 20px;
+    background-color: #f8f9fa; /* Background abu-abu muda biar kartu nonjol */
+}
+
+.business-card {
+    background: #ffffff;
+    width: 100%;
+    max-width: 400px; /* Ukuran lebar HP */
+    padding: 40px 30px;
+    border-radius: 20px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.1); /* Efek bayangan melayang */
+    text-align: center;
+    position: relative;
+    border-top: 8px solid #25d366; /* Aksen warna WA di atas */
+}
+
+.business-card h1 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 10px;
+    line-height: 1.2;
+}
+
+.business-card p {
+    color: #666;
+    font-size: 0.95rem;
+    margin-bottom: 20px;
+}
+
+.business-card hr {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+}
+
+/* Styling konten markdown */
+.card-content {
+    text-align: left;
+}
+
+.card-content ul {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.card-content li {
+    margin-bottom: 8px;
+    color: #444;
+}
+
+/* Tombol WA Custom */
+.btn-wa {
+    display: block;
+    width: 100%;
+    background-color: #25d366;
+    color: white !important;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+    border-radius: 50px;
+    text-decoration: none;
+    box-shadow: 0 5px 15px rgba(37, 211, 102, 0.3);
+    transition: transform 0.2s;
+    margin-top: 20px;
+}
+
+.btn-wa:hover {
+    transform: translateY(-2px);
+    background-color: #128c7e;
+}
+
+.back-link {
+    display: block;
+    margin-top: 20px;
+    font-size: 0.8rem;
+    color: #999;
+}
+</style>
+
+<div class="card-container">
+    <div class="business-card">
+        <!-- Area Judul & Deskripsi Singkat -->
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Params.description }}</p>
+        
+        <hr>
+
+        <!-- Area Konten Utama -->
+        <div class="card-content">
+            {{ .Content }}
+        </div>
+
+        <a href="/" class="back-link">← Kembali ke Usaha Digital</a>
+    </div>
+</div>
+{{ end }}

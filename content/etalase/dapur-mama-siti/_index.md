@@ -1,7 +1,7 @@
 ---
 title: "Dapur Mama Siti - Ciledug"
 description: "Kartu Nama Digital untuk katering rumahan."
-layout: "single"
+layout: "card"
 ---
 
 # 🍲 Dapur Mama Siti

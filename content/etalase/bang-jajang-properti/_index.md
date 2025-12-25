@@ -1,6 +1,6 @@
 ---
 title: "Bang Jajang Properti - BSD"
-layout: "single"
+layout: "card"
 ---
 # 🏠 Bang Jajang Properti
 *Cari Hunian Impian di BSD.*
