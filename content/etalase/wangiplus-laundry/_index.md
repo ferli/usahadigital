@@ -15,4 +15,4 @@ Malas nyuci? Biar WangiPlus yang handle. Kita jemput pakaian kotor Anda, kita ba
 - **Setrika Saja:** Rp 6.000 /kg
 - **Cuci Bedcover:** Rp 25.000 /pcs
 
-[**Minta Jemput Pakaian (Free Ongkir 3km)**](https://wa.me/6281234567890)
+[**Minta Jemput Pakaian (Free Ongkir 3km)**](https://wa.me/628111047011)

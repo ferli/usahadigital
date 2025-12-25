@@ -19,4 +19,4 @@ Kami bantu amankan dan percantik rumah Anda dengan hasil las-lasan yang rapi dan
 2. **Material Pilihan:** Pakai besi galvanis anti karat atau stainless premium.
 3. **Survey Gratis:** Kami datang ke rumah untuk ukur dan estimasi biaya (Gratis!).
 
-[**Minta Survey Sekarang (WA)**](https://wa.me/6281234567890)
+[**Minta Survey Sekarang (WA)**](https://wa.me/628111047011)

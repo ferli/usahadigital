@@ -14,4 +14,4 @@ Melayani langganan makan siang karyawan dengan menu yang ganti-ganti tiap hari. 
 - **Selasa:** Ikan Bakar, Sayur Asem, Sambal.
 - **Rabu:** Beef Bowl, Kimchi, Nasi Putih.
 
-[**Daftar Langganan Kantor**](https://wa.me/6281234567890)
+[**Daftar Langganan Kantor**](https://wa.me/628111047011)

@@ -73,4 +73,4 @@ Cocok buat yang orderannya mulai rame. Biar catetan orderan gak berantakan atau 
 
 Gak usah ragu, tanya-tanya dulu gratis kok. Konsultasi santai aja.
 
-[**>> Klik Disini Buat Chat WA <<**](https://wa.me/6281234567890)
+[**>> Klik Disini Buat Chat WA <<**](https://wa.me/628111047011)

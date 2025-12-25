@@ -19,4 +19,4 @@ Selamat datang di halaman resmi NgopiSore Bintaro. Kami bukan sekadar kedai kopi
 *   **Vibe Adem:** Cocok buat kerja (WFH) atau sekadar melamun.
 *   **Wi-Fi Kenceng:** Gak pake putus-nyambung kayak mantan.
 
-[**Chat Admin via WA**](https://wa.me/6281234567890)
+[**Chat Admin via WA**](https://wa.me/628111047011)

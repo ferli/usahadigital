@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Beranda - NgopiSore Bintaro on Usaha Digital</title>
-    <link>/etalase/ngopisore-bintaro/</link>
+    <link>//localhost:1313/etalase/ngopisore-bintaro/</link>
     <description>Recent content in Beranda - NgopiSore Bintaro on Usaha Digital</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>id-id</language>
-    <atom:link href="/etalase/ngopisore-bintaro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/etalase/ngopisore-bintaro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daftar Menu - NgopiSore Bintaro</title>
-      <link>/etalase/ngopisore-bintaro/menu/</link>
+      <link>//localhost:1313/etalase/ngopisore-bintaro/menu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/etalase/ngopisore-bintaro/menu/</guid>
+      <guid>//localhost:1313/etalase/ngopisore-bintaro/menu/</guid>
       <description>&lt;h1 id=&#34;-daftar-menu-ngopisore&#34;&gt;📖 Daftar Menu NgopiSore&lt;/h1&gt;
 &lt;p&gt;Monggo dipilih, mau yang dingin atau yang hangat, semua ada.&lt;/p&gt;
 &lt;h3 id=&#34;-coffee-signature&#34;&gt;☕ Coffee (Signature)&lt;/h3&gt;
@@ -33,13 +33,13 @@
 &lt;li&gt;&lt;strong&gt;Brownies Cokelat:&lt;/strong&gt; Rp 20.000&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;a href=&#34;/etalase/ngopisore-bintaro&#34;&gt;🔙 Kembali ke Beranda&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;//localhost:1313/etalase/ngopisore-bintaro&#34;&gt;🔙 Kembali ke Beranda&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lokasi - NgopiSore Bintaro</title>
-      <link>/etalase/ngopisore-bintaro/lokasi/</link>
+      <link>//localhost:1313/etalase/ngopisore-bintaro/lokasi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/etalase/ngopisore-bintaro/lokasi/</guid>
+      <guid>//localhost:1313/etalase/ngopisore-bintaro/lokasi/</guid>
       <description>&lt;h1 id=&#34;-lokasi--jam-operasional&#34;&gt;📍 Lokasi &amp;amp; Jam Operasional&lt;/h1&gt;
 &lt;p&gt;Gak usah bingung cari alamat kami, klik aja link di bawah ini.&lt;/p&gt;
 &lt;h3 id=&#34;alamat&#34;&gt;Alamat:&lt;/h3&gt;
@@ -54,7 +54,4 @@
 &lt;p&gt;&lt;em&gt;(Simulasi Integrasi Google Maps)&lt;/em&gt;
 &lt;a href=&#34;https://maps.google.com&#34;&gt;&lt;strong&gt;&amp;raquo; Buka di Google Maps &amp;laquo;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;a href=&#34;/etalase/ngopisore-bintaro&#34;&gt;🔙 Kembali ke Beranda&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;&lt;a href=&#34;//localhost:1313/

@@ -17,4 +17,4 @@ Yayasan Harapan Bunda berkomitmen untuk memberikan pengasuhan, pendidikan, dan k
 ### Misi Kami:
 Menjadi jembatan kebaikan antara para dermawan dengan mereka yang membutuhkan, demi terwujudnya generasi mandiri dan berakhlak mulia.
 
-[**Hubungi Admin Yayasan**](https://wa.me/6281234567890)
+[**Hubungi Admin Yayasan**](https://wa.me/628111047011)

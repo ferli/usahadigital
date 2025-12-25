@@ -2,10 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>WangiPlus Laundry on Usaha Digital</title>
-    <link>/etalase/wangiplus-laundry/</link>
+    <link>//localhost:1313/etalase/wangiplus-laundry/</link>
     <description>Recent content in WangiPlus Laundry on Usaha Digital</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>id-id</language>
-    <atom:link href="/etalase/wangiplus-laundry/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+    <atom:link href="//localhost:1313/etalase/wangiplus-laundry/index.xml" rel="self" type="application/rss

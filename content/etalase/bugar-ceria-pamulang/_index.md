@@ -19,4 +19,4 @@ Bergabunglah dengan komunitas hidup sehat di Pamulang. Kami menyediakan berbagai
 - 🔊 Sound System Jedag-Jedug (Biar makin semangat).
 - 🧊 Free Mineral Water & Ruang Ganti Bersih.
 
-[**Daftar Trial Gratis (1x Sesi)**](https://wa.me/6281234567890)
+[**Daftar Trial Gratis (1x Sesi)**](https://wa.me/628111047011)

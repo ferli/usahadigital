@@ -21,4 +21,4 @@ Kami melayani katering harian, nasi box, dan prasmanan untuk acara keluarga. Sem
 ### Hubungi Kami
 Siap pesan atau tanya-tanya menu? Klik tombol di bawah:
 
-[**Pesan via WhatsApp**](https://wa.me/6281234567890?text=Halo%20Mama%20Siti,%20saya%20mau%20tanya%20menu%20kateringnya)
+[**Pesan via WhatsApp**](https://wa.me/628111047011?text=Halo%20Mama%20Siti,%20saya%20mau%20tanya%20menu%20kateringnya)

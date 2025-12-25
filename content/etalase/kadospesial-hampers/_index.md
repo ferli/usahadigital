@@ -14,4 +14,4 @@ Bingung cari kado untuk ulang tahun, wisuda, atau hari raya? Kami bantu siapkan 
 - **Hampers Alat Ibadah:** Mulai 150k
 - **Hampers Custom:** Bebas pilih isi (Hubungi Admin)
 
-[**Konsultasi Desain & Order**](https://wa.me/6281234567890)
+[**Konsultasi Desain & Order**](https://wa.me/628111047011)

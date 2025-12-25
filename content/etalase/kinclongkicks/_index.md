@@ -17,4 +17,4 @@ Jangan biarkan sepatu kesayanganmu kusam dan bau. Kami hadir dengan treatment kh
 ### 🚚 Jasa Pickup-Delivery
 Malas keluar rumah? Tenang, tim kami siap jemput dan antar sepatu Anda kembali sampai ke depan pintu.
 
-[**Jemput Sepatu Saya (WA)**](https://wa.me/6281234567890)
+[**Jemput Sepatu Saya (WA)**](https://wa.me/628111047011)
