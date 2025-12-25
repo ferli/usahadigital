@@ -1,7 +1,12 @@
-baseURL = 'https://usahadigital.com'
+baseURL = '/'
 languageCode = 'id-id'
 title = 'Usaha Digital'
 theme = 'PaperMod'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   defaultTheme = "light"
