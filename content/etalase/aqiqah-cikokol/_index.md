@@ -1,26 +1,30 @@
 ---
-title: "Aqiqah Nurul Hidayah - Cikokol"
-layout: "single"
+title: "Aqiqah Nurul Hidayah"
+description: "Layanan Aqiqah Praktis & Syari di Cikokol."
+layout: "catalog"
+brand_color: "#27ae60" # Hijau Islami
+products:
+  - name: "Paket Hemat A"
+    price: "Rp 1.800.000"
+    desc: "1 Kambing Betina + Masak (Sate 200 tsk, Gule 60 porsi). Gratis Risalah & Sertifikat."
+    img_color: "2ecc71"
+    text_color: "ffffff"
+  - name: "Paket Nasi Box (50 Porsi)"
+    price: "Rp 2.500.000"
+    desc: "1 Kambing + Masak + 50 Nasi Box (Nasi, Sate, Gule, Acar, Kerupuk, Buah). Siap bagikan."
+    img_color: "27ae60"
+    text_color: "ffffff"
+  - name: "Paket Sultan (2 Kambing)"
+    price: "Rp 4.500.000"
+    desc: "Untuk Anak Laki-laki. 2 Kambing Jantan Besar + Masak + 100 Nasi Box Premium."
+    img_color: "1e8449"
+    text_color: "ffffff"
 ---
-# 🐐 Aqiqah Nurul Hidayah
-*Aqiqah Mudah, Berkah, & Sesuai Syariat.*
 
-📍 Cikokol, Tangerang Kota
+### 📝 Cara Pemesanan
+1. Pilih paket yang Anda inginkan di atas.
+2. Klik tombol **"Beli via WA"**.
+3. Admin kami akan mengirimkan formulir data anak (Nama, Tgl Lahir, Nama Orang Tua).
+4. Pembayaran bisa DP dulu, pelunasan setelah pesanan sampai (COD).
 
-Siap membantu Ayah & Bunda menyambut kelahiran buah hati dengan layanan aqiqah terbaik. Kambing sehat, masakan tidak prengus!
-
-### 🍱 Pilihan Paket:
-1. **Paket Hemat (1 Kambing + Masak):** Rp 1.800.000
-2. **Paket Nasi Box (50 Box):** Rp 2.500.000
-3. **Paket Premium (100 Box):** Rp 4.000.000
-
----
-### 📝 Form Pemesanan Online
-(Silakan isi data di bawah, nanti otomatis terkirim ke WA kami)
-
-- Nama Anak:
-- Jenis Kelamin:
-- Tanggal Acara:
-- Paket yang Dipilih:
-
-[**Kirim Pesanan Sekarang**](https://wa.me/628111047011?text=Halo%20Aqiqah%20Nurul%20Hidayah,%20saya%20mau%20pesan%20paket%20aqiqah)
+**Gratis Ongkir** untuk wilayah Tangerang Kota & Batuceper!
