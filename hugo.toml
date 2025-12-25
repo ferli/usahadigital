@@ -1,0 +1,25 @@
+﻿baseURL = 'https://usahadigital.com'
+languageCode = 'id-id'
+title = 'Usaha Digital'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "light"
+  # Mengaktifkan Profil/Landing Mode
+  [params.homeInfoParams]
+    Title = "Usaha Digital - Partner Digital UMKM Keluarga"
+    Content = "Bantu Usaha Rapi, Rejeki Hepi. Solusi IT tanpa bahasa planet, khusus buat sedulur UMKM."
+
+  [[params.socialIcons]]
+    name = "whatsapp"
+    url = "https://wa.me/6281234567890" # Ganti dengan nomor asli
+    
+  [params.assets]
+    disableHLJS = true
+    
+[menu]
+  [[menu.main]]
+    identifier = "layanan"
+    name = "Paket Layanan"
+    url = "/#layanan"
+    weight = 10
