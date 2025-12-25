@@ -1,22 +1,24 @@
 ---
-title: "Beranda - Sanggar Senam Bugar Ceria"
-layout: "single"
+title: "Sanggar Senam Bugar Ceria"
+tagline: "Tubuh Sehat, Pikiran Fresh, Hidup Bahagia."
+layout: "company-profile"
+brand_color: "#8e24aa" # Ungu
+hero_bg: "linear-gradient(to right, #8e24aa, #d81b60)" # Ungu ke Pink
+menu_links:
+  - name: "📅 Jadwal Kelas"
+    url: "jadwal"
+  - name: "🎟️ Membership"
+    url: "paket"
 ---
-# 🧘‍♀️ Sanggar Senam Bugar Ceria
-*Tubuh Sehat, Pikiran Fresh, Hidup Bahagia.*
 
-Bergabunglah dengan komunitas hidup sehat di Pamulang. Kami menyediakan berbagai kelas senam yang dipandu oleh instruktur profesional dan bersertifikat.
+## Komunitas Sehat Pamulang
+Bergabunglah dengan ratusan member aktif kami yang telah merasakan manfaat rutin berolahraga. Suasana kekeluargaan membuat Anda betah dan termotivasi.
 
----
-### Menu Website:
-- [📅 Jadwal Kelas Mingguan](/etalase/bugar-ceria-pamulang/jadwal)
-- [🎟️ Paket Membership](/etalase/bugar-ceria-pamulang/paket)
-- [🔙 Kembali ke Usaha Digital](/)
+### Fasilitas Studio
+*   **Ruang Luas 100m2:** Lantai parket kayu (aman untuk lutut).
+*   **Sound System:** Audio 2000W yang menggelegar bikin semangat.
+*   **Ruang Ganti & Loker:** Bersih dan aman untuk barang bawaan.
+*   **Parkir Gratis:** Area parkir motor dan mobil tersedia.
 
----
-### Fasilitas Kami:
-- 🏢 Aula Luas & Lantai Parket (Empuk buat loncat).
-- 🔊 Sound System Jedag-Jedug (Biar makin semangat).
-- 🧊 Free Mineral Water & Ruang Ganti Bersih.
-
-[**Daftar Trial Gratis (1x Sesi)**](https://wa.me/628111047011)
+### Instruktur
+Semua instruktur kami bersertifikat resmi (ZIN, Asiafi) dan berpengalaman minimal 3 tahun mengajar.

@@ -1,20 +1,24 @@
 ---
-title: "Beranda - KinclongKicks Tangsel"
-layout: "single"
+title: "KinclongKicks Tangsel"
+tagline: "Treatment Spa Terbaik untuk Sepatu Kesayanganmu."
+layout: "company-profile"
+brand_color: "#039be5" # Biru Langit
+hero_bg: "linear-gradient(135deg, #0288d1, #039be5)"
+menu_links:
+  - name: "💎 Harga"
+    url: "harga"
+  - name: "✨ Tentang Kami"
+    url: "about"
 ---
-# 👟 KinclongKicks
-*Deep Cleaning Sepatu & Tas No. 1 di Tangsel.*
 
-Jangan biarkan sepatu kesayanganmu kusam dan bau. Kami hadir dengan treatment khusus yang disesuaikan dengan jenis bahan sepatu Anda.
+## Jangan Biarkan Sepatu Kotor Merusak Gaya!
+Sepatu adalah hal pertama yang dilihat orang dari penampilanmu. Kami hadir memberikan solusi perawatan sepatu profesional dengan teknik *Deep Cleaning* yang aman.
 
----
-### Navigasi:
-- [💎 Daftar Layanan & Harga](/etalase/kinclongkicks/harga)
-- [✨ Kenapa Pilih Kami?](/etalase/kinclongkicks/about)
-- [🔙 Kembali ke Usaha Digital](/)
+### Apa yang Kami Kerjakan?
+*   Membersihkan noda membandel pada canvas/mesh.
+*   Mengembalikan warna sol yang menguning (Unyellowing).
+*   Mengecat ulang sepatu yang pudar (Repaint).
+*   Menghilangkan bau apek bakteri.
 
----
-### 🚚 Jasa Pickup-Delivery
-Malas keluar rumah? Tenang, tim kami siap jemput dan antar sepatu Anda kembali sampai ke depan pintu.
-
-[**Jemput Sepatu Saya (WA)**](https://wa.me/628111047011)
+### Garansi Kepuasan
+Jika sepatu Anda tidak bersih maksimal atau rusak karena kesalahan kami, kami ganti rugi atau cuci ulang gratis!

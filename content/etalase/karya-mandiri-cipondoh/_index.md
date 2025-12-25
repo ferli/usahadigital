@@ -1,22 +1,23 @@
 ---
-title: "Beranda - Karya Mandiri Cipondoh"
-layout: "single"
+title: "Bengkel Las Karya Mandiri"
+tagline: "Spesialis Besi & Stainless Steel Profesional di Cipondoh."
+layout: "company-profile"
+brand_color: "#e65100" # Oranye Las
+hero_bg: "linear-gradient(to right, #212121, #424242)" # Abu Gelap
+menu_links:
+  - name: "⚒️ Layanan"
+    url: "layanan"
+  - name: "📸 Portofolio"
+    url: "portofolio"
 ---
-# 🛠️ Bengkel Las Karya Mandiri
-*Spesialis Besi & Stainless Steel Profesional.*
 
-Kami bantu amankan dan percantik rumah Anda dengan hasil las-lasan yang rapi dan kuat. Melayani seluruh area Tangerang.
+## Tentang Kami
+Berpengalaman lebih dari 10 tahun mengerjakan konstruksi besi untuk rumah tinggal, ruko, dan pabrik di Tangerang. Kami mengutamakan kerapihan las dan kekuatan struktur.
 
----
-### Navigasi Website:
-- [⚒️ Daftar Layanan](/etalase/karya-mandiri-cipondoh/layanan)
-- [📸 Galeri Portofolio](/etalase/karya-mandiri-cipondoh/portofolio)
-- [🔙 Kembali ke Usaha Digital](/)
+### Keunggulan Kami
+1.  **Harga Transparan:** Hitungan per meter jelas, tidak ada biaya tersembunyi.
+2.  **Material SNI:** Menggunakan besi full (bukan banci) agar awet puluhan tahun.
+3.  **Garansi:** Jaminan perbaikan gratis jika ada cacat las.
 
----
-### Mengapa Percayakan ke Kami?
-1. **Harga Bersahabat:** Bisa disesuaikan dengan budget Anda.
-2. **Material Pilihan:** Pakai besi galvanis anti karat atau stainless premium.
-3. **Survey Gratis:** Kami datang ke rumah untuk ukur dan estimasi biaya (Gratis!).
-
-[**Minta Survey Sekarang (WA)**](https://wa.me/628111047011)
+### Area Layanan
+Cipondoh, Poris, Ciledug, Banjar Wijaya, Green Lake City, dan sekitarnya.

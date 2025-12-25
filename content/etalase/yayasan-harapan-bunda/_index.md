@@ -1,20 +1,23 @@
 ---
-title: "Beranda - Yayasan Harapan Bunda"
-layout: "single"
+title: "Yayasan Harapan Bunda"
+tagline: "Bersama Kita Berbagi, Bersama Kita Mengabdi."
+layout: "company-profile"
+brand_color: "#00897b" # Hijau Tosca
+hero_bg: "linear-gradient(to right, #00695c, #00897b)"
+menu_links:
+  - name: "📖 Profil"
+    url: "profil"
+  - name: "🎁 Donasi"
+    url: "donasi"
 ---
-# 💖 Yayasan Harapan Bunda
-*Bersama Kita Berbagi, Bersama Kita Mengabdi.*
 
-Yayasan Harapan Bunda berkomitmen untuk memberikan pengasuhan, pendidikan, dan kasih sayang kepada anak-anak yatim dan dhuafa di wilayah Tangerang.
+## Assalamu'alaikum Wr. Wb.
+Yayasan Harapan Bunda adalah lembaga sosial nirlaba yang berkhidmat untuk kesejahteraan anak-anak yatim dan kaum dhuafa di wilayah Tangerang.
 
----
-### Navigasi:
-- [📖 Profil Yayasan](/etalase/yayasan-harapan-bunda/profil)
-- [🎁 Program Donasi](/etalase/yayasan-harapan-bunda/donasi)
-- [🔙 Kembali ke Usaha Digital](/)
+### Nilai-Nilai Kami
+1.  **Amanah:** Menjaga kepercayaan donatur dengan transparansi laporan.
+2.  **Kepedulian:** Memberikan pengasuhan layaknya orang tua kandung.
+3.  **Kemandirian:** Membekali anak asuh dengan *skill* agar siap terjun ke masyarakat.
 
----
-### Misi Kami:
-Menjadi jembatan kebaikan antara para dermawan dengan mereka yang membutuhkan, demi terwujudnya generasi mandiri dan berakhlak mulia.
-
-[**Hubungi Admin Yayasan**](https://wa.me/628111047011)
+### Laporan Kegiatan
+Kami rutin mengadakan santunan bulanan dan pemeriksaan kesehatan gratis. Seluruh dokumentasi kegiatan dapat diakses secara terbuka oleh publik.
