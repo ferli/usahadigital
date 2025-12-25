@@ -1,49 +1,49 @@
-﻿---
+---
 title: "Layanan Kami"
 layout: "index"
 summary: "Solusi digital praktis untuk UMKM."
 ---
 
-## <a id="layanan"></a>Monggo Dipilih Paket Hematnya
+## <a id="layanan"></a>Pilih Paket Digital Usahamu
 
-Kami paham jenengan sibuk urus dagangan. Jadi biar urusan teknologi kami yang pegang, jenengan tinggal terima beres. Gak perlu pusing server, koding, atau istilah njelimet lainnya.
+Kami paham banget Anda sibuk urus operasional usaha. Jadi biar urusan teknologi kami yang handle, Anda tinggal terima beres. Gak perlu pusing mikirin server, coding, atau istilah teknis yang bikin ribet.
 
 ---
 
 ### 1. Paket "Kartu Nama Digital"
-**Mahar: Rp 499.000,-**
+**Harga: Rp 499.000,-**
 
-Ibarat kartu nama, tapi gak bakal habis dan gak bisa ilang. Pas buat jenengan yang sering share kontak di grup WA keluarga atau RT.
-*   âœ… Satu halaman profil simpel.
-*   âœ… Tombol langsung ke WA & Maps.
-*   âœ… Desain rapi, enak dilihat di HP.
+Zaman sekarang kartu nama kertas suka keselip atau kebuang. Mending pakai yang digital, tinggal kirim link, beres. Cocok banget buat disebar di grup WA warga atau komunitas.
+*   ✅ Satu halaman profil simpel & to the point.
+*   ✅ Tombol "Klik" langsung ke WA & Google Maps.
+*   ✅ Desain modern, enak dilihat di HP.
 
 ---
 
 ### 2. Paket "Wajah Usaha"
-**Mahar: Rp 999.000,-**
+**Harga: Rp 999.000,-**
 
-Biar usaha jenengan kelihatan lebih *mbois* dan terpercaya pas dicari pelanggan di Google.
-*   âœ… Semua fitur Paket 1.
-*   âœ… Halaman Galeri Foto Produk.
-*   âœ… Halaman "Tentang Kami" biar pelanggan kenal.
-*   âœ… Gratis domain .com setahun.
+Bikin usaha Anda kelihatan lebih bonafide dan terpercaya pas dicari pelanggan di Google.
+*   ✅ Semua fitur Paket 1.
+*   ✅ Halaman Galeri Foto Produk (biar makin ngiler).
+*   ✅ Halaman "Tentang Kami" (biar pelanggan makin yakin).
+*   ✅ Gratis domain .com setahun (namausaha.com).
 
 ---
 
 ### 3. Paket "Sistem Order"
-**Mahar: Rp 1.900.000,-**
+**Harga: Rp 1.900.000,-**
 
-Pas buat yang orderannya mulai membludak. Biar catetan gak kecampur bon dapur.
-*   âœ… Semua fitur Paket 2.
-*   âœ… Form pemesanan yang masuk langsung ke WA jenengan dengan format rapi.
-*   âœ… Katalog produk digital simpel.
-*   âœ… Panduan cara pakai (diajari sampai bisa).
+Cocok buat yang orderannya mulai rame. Biar catetan orderan gak berantakan atau kecampur bon belanjaan rumah.
+*   ✅ Semua fitur Paket 2.
+*   ✅ Form pemesanan rapi, langsung masuk ke WA Anda.
+*   ✅ Katalog produk digital simpel.
+*   ✅ Panduan cara pakai (diajarin sampai bisa).
 
 ---
 
-### ðŸ“ž Sampun Siap Go Digital?
+### 📞 Sudah Siap Go Digital?
 
-Gak usah sungkan, tanya-tanya dulu gratis kok. Ngobrol santai mawon.
+Gak usah ragu, tanya-tanya dulu gratis kok. Konsultasi santai aja.
 
 [**>> Klik Disini Buat Chat WA <<**](https://wa.me/6281234567890)

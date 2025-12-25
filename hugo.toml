@@ -1,4 +1,4 @@
-﻿baseURL = 'https://usahadigital.com'
+baseURL = 'https://usahadigital.com'
 languageCode = 'id-id'
 title = 'Usaha Digital'
 theme = 'PaperMod'
@@ -7,8 +7,8 @@ theme = 'PaperMod'
   defaultTheme = "light"
   # Mengaktifkan Profil/Landing Mode
   [params.homeInfoParams]
-    Title = "Usaha Digital - Partner Digital UMKM Keluarga"
-    Content = "Bantu Usaha Rapi, Rejeki Hepi. Solusi IT tanpa bahasa planet, khusus buat sedulur UMKM."
+    Title = "Usaha Digital - Partner Go Digital UMKM"
+    Content = "Bikin Usaha Rapi, Rejeki Happy. Solusi IT praktis, ga pake ribet, khusus buat pejuang UMKM."
 
   [[params.socialIcons]]
     name = "whatsapp"
