@@ -7,7 +7,8 @@
     align-items: center;
     min-height: 100vh;
     padding: 20px;
-    background: {{ .Params.bg_color | default "#f8f9fa" }};
+    /* Prioritaskan Gradient jika ada, kalau tidak pakai solid color */
+    background: {{ .Params.bg_gradient | default (.Params.bg_color | default "#f8f9fa") }};
     font-family: {{ .Params.font_family | default "sans-serif" }};
 }
 
@@ -17,10 +18,12 @@
     max-width: 400px;
     padding: 40px 30px;
     border-radius: {{ .Params.border_radius | default "20px" }};
-    box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.15);
     text-align: center;
     position: relative;
-    border-top: 8px solid {{ .Params.accent_color | default "#25d366" }};
+    /* Border atas (accent) opsional, bisa ditimpa border full */
+    border-top: {{ .Params.border_top | default (printf "8px solid %s" (.Params.accent_color | default "#25d366")) }};
+    border: {{ .Params.card_border | default "none" }};
 }
 
 .business-card h1 {
@@ -28,12 +31,15 @@
     color: {{ .Params.title_color | default "#333" }};
     margin-bottom: 10px;
     line-height: 1.2;
+    text-transform: {{ .Params.title_transform | default "none" }}; /* Bisa uppercase */
+    letter-spacing: {{ .Params.letter_spacing | default "normal" }};
 }
 
 .business-card p {
     color: {{ .Params.text_color | default "#666" }};
     font-size: 0.95rem;
     margin-bottom: 20px;
+    font-style: {{ .Params.desc_style | default "normal" }};
 }
 
 .business-card hr {
@@ -61,7 +67,7 @@
 .btn-wa {
     display: block;
     width: 100%;
-    background-color: {{ .Params.btn_color | default "#25d366" }};
+    background: {{ .Params.btn_gradient | default (.Params.btn_color | default "#25d366") }};
     color: {{ .Params.btn_text_color | default "#ffffff" }} !important;
     font-weight: bold;
     text-align: center;
@@ -72,6 +78,8 @@
     transition: transform 0.2s;
     margin-top: 20px;
     border: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .btn-wa:hover {

@@ -1,27 +1,32 @@
 ---
-title: "Budi Konsultan Pajak - Alam Sutera"
-description: "Kartu Nama Digital Konsultan Pajak."
+title: "Budi & Partners"
+description: "Tax Consultant & Accounting Services."
 layout: "card"
-# Custom Theme: Formal & Clean
-bg_color: "#FAFAFA"           # Background Halaman: Hampir Putih
-card_bg: "#FFFFFF"
-accent_color: "#212121"       # Garis Atas: Hitam
-btn_color: "#212121"          # Tombol WA: Hitam
-btn_text_color: "#FFFFFF"
-title_color: "#000000"
-border_radius: "2px"          # Sudut: Kotak tajam
-font_family: "'Arial', sans-serif"
+# Custom Theme: Corporate Professional
+bg_color: "#cfd8dc"           # Abu-abu kebiruan (kantoran)
+card_bg: "#263238"            # Kartu Gelap (Dark Mode)
+text_color: "#eceff1"         # Teks Terang
+border_top: "none"
+card_border: "1px solid #455a64"
+btn_color: "#546e7a"          # Tombol Abu-abu Elegant
+btn_text_color: "#ffffff"
+title_color: "#ffffff"
+title_transform: "uppercase"
+desc_style: "italic"
+border_radius: "4px"          # Sedikit rounded
+font_family: "'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
 ---
 # 💼 Budi & Partners
 *Solusi Pajak Rapi, Bisnis Tenang.*
 
 📍 Alam Sutera, Tangerang
 
-Membantu pengusaha perorangan dan UMKM dalam merapikan laporan perpajakan (SPT Tahunan, PPN, PPh 21).
+Mitra terpercaya bagi pengusaha perorangan dan UMKM. Kami menangani kerumitan perpajakan agar Anda bisa fokus mengembangkan bisnis.
 
-### Jasa Kami:
+### Layanan Profesional:
 - Review Laporan Keuangan
 - Konsultasi Pajak Bulanan
 - Pendampingan Audit Pajak
+- Pelaporan SPT Tahunan
 
-<a href="https://wa.me/628111047011?text=Pak%20Budi,%20saya%20mau%20konsultasi%20SPT%20Tahunan" class="btn-wa">Atur Janji Temu</a>
+<a href="https://wa.me/628111047011?text=Pak%20Budi,%20saya%20mau%20konsultasi%20SPT%20Tahunan" class="btn-wa">Jadwalkan Konsultasi</a>
